@@ -1,0 +1,17 @@
+<!-- docs/_sidebar.md -->
+
+- [Home](/)
+- [Template](template/README.md)
+  - [heading](template/heading.md)
+  - [text](template/text.md)
+  - [links](template/links.md)
+  - [lists](template/lists.md)
+  - [blockquotes](template/blockquotes.md)
+  - [code](template/code.md)
+  - [notices](template/notices.md)
+  - [tabs](template/tabs.md)
+  - [tables](template/tables.md)
+  - [keyboard](template/keyboard.md)
+  - [horizontal rule](template/horizontal.md)
+  - [images](template/images.md)
+  - [emoji](template/emoji.md)
